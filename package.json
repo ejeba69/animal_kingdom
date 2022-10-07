@@ -2,7 +2,7 @@
   "name": "animal_kingdom",
   "version": "1.0.0",
   "description": "__9:52 thu oct6 wk40 2022__ In my effort to understand how to create a CRUD API, I wish to construct an API that receives the names of animals from clients. And writes these names to the database.",
-  "main": "app",
+  "main": "server",
   "author": "Emmanuel Eni <eejeba@gmail.com>",
   "license": "MIT",
   "scripts": {
